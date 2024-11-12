@@ -1,0 +1,9 @@
+Date,Product_ID,Product_Name,Sales,Stock_Level,Lead_Time
+01-01-2023,1,Widget A,150,300,3
+01-01-2023,2,Widget B,120,250,5
+02-01-2023,1,Widget A,160,140,3
+02-01-2023,2,Widget B,130,120,5
+03-01-2023,1,Widget A,180,200,3
+03-01-2023,2,Widget B,140,300,5
+04-01-2023,1,Widget A,170,150,3
+04-01-2023,2,Widget B,160,180,5
